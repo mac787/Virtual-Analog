@@ -9,4 +9,4 @@ Currently there are 4 circuit models within this repository. All of the models a
 
 3. Boss DS-1 Transistor Stage - This is a full time-domain physical model of the transistor stage from the Boss DS-1 circuit.
 
-4. Guitar Distortion Effect - This is a guitar distortion model based on the Marshall Guv'nor circuit. It is not a full physical model, as the stages of the circuit are modeled separately. The tone stage of the circuit is a model of the Big Muff tone stage, rather than the original Marshall tone stage.
+4. Marshall Guv'nor Inspired Distortion Effect - This is a guitar distortion model based on the Marshall Guv'nor circuit. It is not a full physical model, as the stages of the circuit are modeled separately. The tone stage of the circuit is a model of the Big Muff tone stage, rather than the original Marshall tone stage.
